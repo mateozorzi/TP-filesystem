@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "fuse.h": "c",
+        "fisopfs.h": "c",
+        "errno.h": "c",
+        "stdlib.h": "c",
+        "file.h": "c",
+        "string.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "stat.h": "c",
+        "features.h": "c"
+    }
+}
